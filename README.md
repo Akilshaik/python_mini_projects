@@ -1,4 +1,4 @@
 # python_mini_projects
-Hello,
-In this repo I add all mini projects which i done during the learning python.
-"😊""😊""😊"
+"Hello,
+In this repository, I've compiled all the mini-projects that I completed while learning Python.
+
